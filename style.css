@@ -156,3 +156,13 @@ table {
 thead {
   border-top: none;
 }
+ #gallery {
+  padding: 0;
+ }
+
+#gallery img {
+  width: 150px;
+  height: 200px;
+  margin-top: 7.5px;
+  border-radius: 5px;
+}
