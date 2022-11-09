@@ -157,12 +157,13 @@ thead {
   border-top: none;
 }
  #gallery {
-  padding: 0;
+  padding: 1px;
  }
 
 #gallery img {
   width: 150px;
   height: 200px;
   margin-top: 7.5px;
+  /* margin-bottom: 7.5px; */
   border-radius: 5px;
 }
