@@ -161,8 +161,9 @@ thead {
  }
 
 #gallery img {
-  width: 150px;
-  height: 200px;
+  /* width: 150px; */
+  /* height: 200px; */
+  max-height: 90vh;
   margin-top: 7.5px;
   /* margin-bottom: 7.5px; */
   border-radius: 5px;
